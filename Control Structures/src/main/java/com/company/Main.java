@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+
     public static void main(String[] args) {
         //for loop example
         for(int i = 1; i <= 5; i++) {
@@ -32,6 +33,7 @@ public class Main {
             mensaje = "El resto es = "+resto+". El "+entero1+esDivisibleONo+entero2;
             System.out.println(mensaje);
         }
+
 
 
     }
